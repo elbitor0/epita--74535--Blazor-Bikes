@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\erwan\\OneDrive\\Bureau\\backend\\BlazorBikes\\BlazorBikes\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorBikes.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorBikes.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\erwan\\OneDrive\\Bureau\\backend\\BlazorBikes\\BlazorBikes\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\erwan\\OneDrive\\Bureau\\backend\\BlazorBikes\\BlazorBikes\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erwan\\OneDrive\\Bureau\\backend\\BlazorBikes\\BlazorBikes\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erwan\\OneDrive\\Bureau\\backend\\BlazorBikes\\BlazorBikes\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorBikes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorBikes.props",
+      "PackagePath": "build\\BlazorBikes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorBikes.props",
+      "PackagePath": "buildMultiTargeting\\BlazorBikes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorBikes.props",
+      "PackagePath": "buildTransitive\\BlazorBikes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
